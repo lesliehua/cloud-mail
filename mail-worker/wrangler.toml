@@ -9,7 +9,7 @@ enabled = true
 [[d1_databases]]
 binding = "db"			#d1数据库绑定名默认不可修改
 #database_name = ""		#d1数据库名字
-database_id = "920c5edf-870a-481d-9666-0d57b652ab87"		#d1数据库id
+database_id = "fc346adb-db90-4eb3-b008-d6b684997ef5"		#d1数据库id
 
 [[kv_namespaces]]
 binding = "kv"			#kv绑定名默认不可修改
